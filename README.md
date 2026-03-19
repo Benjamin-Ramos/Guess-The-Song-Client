@@ -1,5 +1,10 @@
 # 🎵 Guess The Song - Client
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Benjamin-Ramos/Guess-The-Song-Client?style=flat&logo=git&logoColor=white&color=0080ff)
+![GitHub top language](https://img.shields.io/github/languages/top/Benjamin-Ramos/Guess-The-Song-Client?style=flat&color=0080ff)
+![NuGet Version](https://img.shields.io/badge/nuget-v1.0.0-0080ff?logo=nuget&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208.0-512BD4?style=flat&logo=dotnet&logoColor=white)
+
 **Guess The Song Client** es una solución robusta diseñada para simplificar la creación de juegos musicales multijugador en tiempo real. Este cliente se enfoca en ofrecer una experiencia de usuario fluida, reactiva y altamente interactiva, optimizada para entornos Windows.
 
 ---
